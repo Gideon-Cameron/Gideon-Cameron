@@ -7,7 +7,7 @@ React.js · JavaScript · TypeScript · Tailwind CSS · Node.js · Express.js ·
 
 🚀 **Featured Projects**
 - [🌤️ React Weather App](https://gideon-cameron.github.io/React-Weather-App/) – Real-time weather updates using OpenWeather API
-- [🪐 Space Tourism Website](https://gideon-cameron.github.io/Space-Touris/) – Animated responsive UI with optimized performance
+- [🪐 Space Tourism Website](https://space-tourism-main1.netlify.app/technology) – Animated responsive UI with optimized performance
 - [📚 Fluentwave](https://fluentwave-beta.netlify.app/) – Gamified language learning platform with full-stack authentication
 
 📫 **Let’s Connect**
