@@ -49,6 +49,7 @@ I specialize in **React**, **Tailwind CSS**, and creating UIs that feel intuitiv
 ## 📊 GitHub Stats
 
 ![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gideon-Cameron&show_icons=true&theme=radical&hide_title=true)
+![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gideon-Cameron&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
