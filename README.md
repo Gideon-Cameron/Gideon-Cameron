@@ -40,7 +40,7 @@ I specialize in **React**, **Tailwind CSS**, and creating UIs that feel intuitiv
 | **[🌤️ React Weather App](https://gideon-cameron.github.io/React-Weather-App/)** | Real-time weather using OpenWeather API, React + Tailwind | ✅ Live |
 | **[🪐 Space Tourism](https://space-tourism-main1.netlify.app/)** | Multi-page animated site with full responsiveness | ✅ Live |
 | **[📚 Fluentwave](https://fluentwave-beta.netlify.app/)** | Gamified language learning platform with XP logic | ✅ Live |
-| **[📈 Job Tracker](https://job-trackerz.netlify.app/)** | User-authenticated app to track job application stages | ✅ Live |
+| **[🛠️ DevDash](https://dev-dash-gc.netlify.app/)** | Personalized developer dashboard with GitHub stats, Pomodoro timer, and more | ✅ Live |
 | **[🧮 Calculator](https://gideon-cameron.github.io/Calculator-app/)** | Simple yet elegant calculator app with theme toggle | ✅ Live |
 | **[🌐 Portfolio](https://gideons-work-portfolio.netlify.app/)** | My full portfolio site with bio, projects, and contact | ✅ Live |
 
