@@ -54,7 +54,7 @@ I specialize in **React**, **Tailwind CSS**, and creating UIs that feel intuitiv
 
 ## 📫 Let’s Connect
 
-- 🌐 [**Portfolio**](https://gideons-work-portfolio.netlify.app/)
+- 🌐 [**Portfolio**](https://gideon-portfolio-gc.netlify.app/)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/gideon-cameron-335801263/)
 - 📧 **Email**: [gideonwork20@gmail.com](mailto:gideonwork20@gmail.com)
 
