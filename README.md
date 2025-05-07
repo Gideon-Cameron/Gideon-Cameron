@@ -42,7 +42,7 @@ I specialize in **React**, **Tailwind CSS**, and creating UIs that feel intuitiv
 | **[📚 Fluentwave](https://fluentwave-beta.netlify.app/)** | Gamified language learning platform with XP logic | ✅ Live |
 | **[🛠️ DevDash](https://dev-dash-gc.netlify.app/)** | Personalized developer dashboard with GitHub stats, Pomodoro timer, and more | ✅ Live |
 | **[🧮 Calculator](https://gideon-cameron.github.io/Calculator-app/)** | Simple yet elegant calculator app with theme toggle | ✅ Live |
-| **[🌐 Portfolio](https://gideons-work-portfolio.netlify.app/)** | My full portfolio site with bio, projects, and contact | ✅ Live |
+| **[🌐 Portfolio](https://gideon-portfolio-gc.netlify.app/)** | My full portfolio site with bio, projects, and contact | ✅ Live |
 
 ---
 
